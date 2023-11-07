@@ -26,3 +26,7 @@ I did a few different additions to my dataset, I first caught the one i missed t
 ![image](https://github.com/SemirHot/5530HW2/assets/70181745/b94de29f-86ce-4cbb-96b5-345ed317074c)
 
 
+<h1>BONUS</h1>
+I wanted to just do a basic visualization, i just compared how many manuels there were to automatics. 
+
+![image](https://github.com/SemirHot/5530HW2/assets/70181745/a14bd6d3-761b-4e09-b8a7-ed66710b1fdc)
